@@ -14,5 +14,5 @@ Getting the right information from a reliable source is one of the most importan
 - **GitHub**: [ccxt](https://github.com/ccxt/ccxt)
 - **Documentation**: [ccxt Documentation](https://docs.ccxt.com/en/latest/)
 ### 2. **yfinance**
-- **GitHub**: [yfinance]([https://github.com/ccxt/ccxt](https://github.com/ranaroussi/yfinance))
-- **Documentation**: [yfinance Documentation]([https://docs.ccxt.com/en/latest/](https://aroussi.com/post/python-yahoo-finance))
+- **GitHub**: [yfinance]([https://github.com/ccxt/ccxt](https://github.com/ranaroussi/yfinance)
+- **Documentation**: [yfinance Documentation]([https://docs.ccxt.com/en/latest/](https://aroussi.com/post/python-yahoo-finance)
